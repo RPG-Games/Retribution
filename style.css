@@ -1,0 +1,20 @@
+body {
+    background-color: #00ffff;
+    text-align: center;
+}
+
+header {
+    background-color: #00ccff;
+    border: 2px solid #00ccff;
+    color:#585858;
+    font-family: lobster;
+    font-size: 20px;
+}
+
+footer {
+    background-color: #00ccff;
+    border: 2px solid #00ccff;
+    color:#787878;
+    font-family: cursive;
+    font-size: 20px;
+}
